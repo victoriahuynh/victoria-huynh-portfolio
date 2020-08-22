@@ -60,6 +60,7 @@
     "react-scroll-section": "^2.1.0",
     "react-text-loop": "^2.0.1",
     "rebass": "^4.0.7",
+    "sharp": "^0.25.4",
     "styled-components": "^5.1.1"
   },
   "devDependencies": {
