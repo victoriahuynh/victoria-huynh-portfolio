@@ -1,0 +1,747 @@
+{
+  "name": "Victoria",
+  "description": "This is my portfolio!",
+  "socialLinks": [
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "ks5uhzcolmym"
+          }
+        },
+        "id": "4SrlLN9bt6Yew2UyGgM06a",
+        "type": "Entry",
+        "createdAt": "2020-08-21T20:25:43.016Z",
+        "updatedAt": "2020-08-21T20:34:28.582Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Github",
+        "url": "https://github.com/victoriahuynh",
+        "fontAwesomeIcon": "github"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "ks5uhzcolmym"
+          }
+        },
+        "id": "3DpgtG8qI8QCWyEAuME4Ku",
+        "type": "Entry",
+        "createdAt": "2020-08-21T20:25:44.420Z",
+        "updatedAt": "2020-08-21T22:17:01.501Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/huynhvictoria/",
+        "fontAwesomeIcon": "linkedin"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "ks5uhzcolmym"
+          }
+        },
+        "id": "114ApRkJZq640w8G2GwM8w",
+        "type": "Entry",
+        "createdAt": "2020-08-21T20:25:44.058Z",
+        "updatedAt": "2020-08-21T22:17:31.688Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Email",
+        "url": "mailto:victoriahuynh@hey.com",
+        "fontAwesomeIcon": "envelope"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "ks5uhzcolmym"
+          }
+        },
+        "id": "4J6WFTjoMUCmQKuKAaOsqE",
+        "type": "Entry",
+        "createdAt": "2020-08-21T20:25:43.726Z",
+        "updatedAt": "2020-08-21T23:45:24.461Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Twitter",
+        "url": "https://twitter.com/vicnamese",
+        "fontAwesomeIcon": "twitter"
+      }
+    }
+  ],
+  "profile": {
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "ks5uhzcolmym"
+        }
+      },
+      "id": "6nf3rNaaVaUqYcoAcciSeC",
+      "type": "Asset",
+      "createdAt": "2020-08-21T20:25:39.937Z",
+      "updatedAt": "2020-08-22T00:57:45.040Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "revision": 3,
+      "locale": "en-US"
+    },
+    "fields": {
+      "title": "Me!",
+      "description": "A photo of me.",
+      "file": {
+        "url": "//images.ctfassets.net/ks5uhzcolmym/6nf3rNaaVaUqYcoAcciSeC/56ced6de1cbb93ba86eed8ddc4a11996/victoria.jpg",
+        "details": {
+          "size": 226004,
+          "image": {
+            "width": 937,
+            "height": 937
+          }
+        },
+        "fileName": "victoria.jpg",
+        "contentType": "image/jpeg"
+      }
+    }
+  },
+  "aboutMe": "I'm a fourth-year [Informatics](https://ischool.uw.edu/programs/informatics/what-is-informatics \"What Is Informatics?\") major at the University of Washington, with a degree option in Human-Computer Interaction and a minor in Entrepreneurship. I aspire to design and develop ethical technology with a high social impact. 💖\n\nI'm currently a SWE intern at Atlassian, where I'm working on the Confluence Cloud, Developer Experience team. Previously, I've worked as a part-time developer at Sporcle, TAed for Girls Who Code, and was a high school developer apprentice at Expedia for two summers. \n\nHere's some fun facts about me!\n\n- My last name is pronounced [HWIN](https://www.youtube.com/watch?v=EPUvgLAhf1U&feature=youtu.be&t=36 \"Name Pronunciation\")\n- I've lived in New York, California, and Washington\n- I love reading, gaming, cross-stitching, and puzzles\n- I have a Bichon/Poodle mix rescue dog named Rocky\n- I moderate a meme group of 730k+ members\n\nI will be __graduating in June 2021__ and am looking for full-time roles. 👀",
+  "projects": [
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "ks5uhzcolmym"
+          }
+        },
+        "id": "6kGoCwZepZb4IWPuFS5kSB",
+        "type": "Entry",
+        "createdAt": "2020-08-21T23:43:28.832Z",
+        "updatedAt": "2020-08-21T23:43:28.832Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Pixelate",
+        "publishedDate": "2020-08-20T00:00-07:00",
+        "logo": {
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "ks5uhzcolmym"
+              }
+            },
+            "id": "5JBSpbBvpwiQDqxvMz5ZDx",
+            "type": "Asset",
+            "createdAt": "2020-08-21T23:18:57.691Z",
+            "updatedAt": "2020-08-21T23:18:57.691Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Pixelate",
+            "description": "thumbnail",
+            "file": {
+              "url": "//images.ctfassets.net/ks5uhzcolmym/5JBSpbBvpwiQDqxvMz5ZDx/527fe8c1205d54622aacf9db5f19ec58/Macbook_Pro__7_.png",
+              "details": {
+                "size": 80525,
+                "image": {
+                  "width": 905,
+                  "height": 905
+                }
+              },
+              "fileName": "Macbook_Pro__7_.png",
+              "contentType": "image/png"
+            }
+          }
+        },
+        "repositoryUrl": "https://gist.github.com/victoriahuynh/f0798d440f3c11ae746122568abc8de1",
+        "description": "A collaborative online project that allows users to contribute to a piece of community artwork. [INFO 441] [Go, JavaScript, Shell, Docker] ",
+        "projectUrl": "https://www.youtube.com/watch?v=Bls-yZhcYes",
+        "type": "Web"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "ks5uhzcolmym"
+          }
+        },
+        "id": "5paxSRHbAkmgMc4WSW8S66",
+        "type": "Entry",
+        "createdAt": "2020-08-21T20:25:45.726Z",
+        "updatedAt": "2020-08-21T22:29:12.299Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 8,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "ClockWork",
+        "publishedDate": "2020-01-18T00:00+02:00",
+        "logo": {
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "ks5uhzcolmym"
+              }
+            },
+            "id": "3AorRmtWOsGQ4o8gK0YWKG",
+            "type": "Asset",
+            "createdAt": "2020-08-21T20:25:39.647Z",
+            "updatedAt": "2020-08-21T22:03:38.604Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 5,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "ClockWork",
+            "description": "ClockWork thumbnail",
+            "file": {
+              "url": "//images.ctfassets.net/ks5uhzcolmym/3AorRmtWOsGQ4o8gK0YWKG/1436f32313ac28aef655a31194bdd745/Macbook_Pro__3_.png",
+              "details": {
+                "size": 54846,
+                "image": {
+                  "width": 905,
+                  "height": 905
+                }
+              },
+              "fileName": "Macbook_Pro__3_.png",
+              "contentType": "image/png"
+            }
+          }
+        },
+        "repositoryUrl": "https://github.com/LocksleyLK/winfoHackathon2020",
+        "description": "Website for the clock-drawing test, a known screening tool for Alzheimer's disease & dementia. [WINFO Hackathon] [jQuery, Bootstrap, Azure Cognitive Services]",
+        "projectUrl": "https://locksleylk.github.io/winfoHackathon2020/index.html",
+        "type": "Web"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "ks5uhzcolmym"
+          }
+        },
+        "id": "3a2baQX8jFa8x1V0gifQhl",
+        "type": "Entry",
+        "createdAt": "2020-08-21T23:42:36.575Z",
+        "updatedAt": "2020-08-22T00:16:56.563Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "SightSeeing",
+        "publishedDate": "2020-03-11T00:00-07:00",
+        "logo": {
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "ks5uhzcolmym"
+              }
+            },
+            "id": "W1cyeq74zqX3ruu4gs7fe",
+            "type": "Asset",
+            "createdAt": "2020-08-21T23:42:27.049Z",
+            "updatedAt": "2020-08-21T23:42:27.049Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Sightseeing",
+            "description": "thumbnail",
+            "file": {
+              "url": "//images.ctfassets.net/ks5uhzcolmym/W1cyeq74zqX3ruu4gs7fe/9337de1dfe82099c0c0eefba056a27d2/Frame_1.png",
+              "details": {
+                "size": 116533,
+                "image": {
+                  "width": 708,
+                  "height": 708
+                }
+              },
+              "fileName": "Frame_1.png",
+              "contentType": "image/png"
+            }
+          }
+        },
+        "extraUrl": "https://www.youtube.com/watch?v=KwQ0FxL7P3A&feature=youtu.be",
+        "extraUrlDesc": "Watch video demo",
+        "description": "A voice system that can accommodate a low-vision tourist navigating tourist attractions in a city. [INFO 498] [Figma, Voiceflow, Alexa Skills]",
+        "projectUrl": "https://creator.voiceflow.com/demo/3539143938",
+        "type": "UI/UX"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "ks5uhzcolmym"
+          }
+        },
+        "id": "2GKNR2f4z6IwAg6a2MmKCc",
+        "type": "Entry",
+        "createdAt": "2020-08-21T20:25:45.395Z",
+        "updatedAt": "2020-08-21T23:07:05.052Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 6,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Foodie",
+        "publishedDate": "2019-01-17T00:00+02:00",
+        "logo": {
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "ks5uhzcolmym"
+              }
+            },
+            "id": "6rkOXCpyvuekYIgy6U6gGu",
+            "type": "Asset",
+            "createdAt": "2020-08-21T20:25:40.559Z",
+            "updatedAt": "2020-08-21T22:08:13.652Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 2,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Foodie",
+            "description": "Foodie Thumbnail",
+            "file": {
+              "url": "//images.ctfassets.net/ks5uhzcolmym/6rkOXCpyvuekYIgy6U6gGu/a4cf8b983a5e3e3509efa46e827b9db7/Macbook_Pro__4_.png",
+              "details": {
+                "size": 258442,
+                "image": {
+                  "width": 905,
+                  "height": 905
+                }
+              },
+              "fileName": "Macbook_Pro__4_.png",
+              "contentType": "image/png"
+            }
+          }
+        },
+        "description": "Website that lets users find recipes, save them for later, and look at their nutritional information. [INFO 340] [JavaScript, Bootstrap]",
+        "projectUrl": "https://info340c-au19.github.io/Team2-challenge9/",
+        "type": "Web"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "ks5uhzcolmym"
+          }
+        },
+        "id": "4yx4kDtPqsU9z4Nq7IAzNH",
+        "type": "Entry",
+        "createdAt": "2020-08-21T22:28:33.619Z",
+        "updatedAt": "2020-08-21T23:43:47.282Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 5,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Airbnb Market in Seattle",
+        "publishedDate": "2019-03-07T00:00-07:00",
+        "logo": {
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "ks5uhzcolmym"
+              }
+            },
+            "id": "69NfHiCSwh7fbYkX4QQZy2",
+            "type": "Asset",
+            "createdAt": "2020-08-21T22:59:01.644Z",
+            "updatedAt": "2020-08-21T22:59:01.644Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Airbnb Market",
+            "description": "thumbnail",
+            "file": {
+              "url": "//images.ctfassets.net/ks5uhzcolmym/69NfHiCSwh7fbYkX4QQZy2/02fd2e16c965770228d672716fbcc50b/Macbook_Pro__6_.png",
+              "details": {
+                "size": 136681,
+                "image": {
+                  "width": 905,
+                  "height": 905
+                }
+              },
+              "fileName": "Macbook_Pro__6_.png",
+              "contentType": "image/png"
+            }
+          }
+        },
+        "repositoryUrl": "https://github.com/victoriahuynh/info370finalproject",
+        "description": "Research project investigating the impact of home-sharing rental sites on surrounding neighborhoods. [INFO 370] [R, Python]",
+        "projectUrl": "https://www.victoriahuynh.dev/info370finalproject/",
+        "type": "Data Sci"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "ks5uhzcolmym"
+          }
+        },
+        "id": "5OkInn8YSJ4ECOqcsBk4oN",
+        "type": "Entry",
+        "createdAt": "2020-08-21T22:35:32.887Z",
+        "updatedAt": "2020-08-21T23:43:54.063Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Arianalysis",
+        "publishedDate": "2019-08-07T00:00-07:00",
+        "logo": {
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "ks5uhzcolmym"
+              }
+            },
+            "id": "1Li2Yzu50R0KpE56uvB1Hp",
+            "type": "Asset",
+            "createdAt": "2020-08-21T22:59:34.589Z",
+            "updatedAt": "2020-08-21T22:59:43.745Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 2,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "arianalysis",
+            "description": "thumbnail",
+            "file": {
+              "url": "//images.ctfassets.net/ks5uhzcolmym/1Li2Yzu50R0KpE56uvB1Hp/9b0a05905056a23f96704983e9fc5fa2/Macbook_Pro__5_.png",
+              "details": {
+                "size": 233453,
+                "image": {
+                  "width": 905,
+                  "height": 905
+                }
+              },
+              "fileName": "Macbook_Pro__5_.png",
+              "contentType": "image/png"
+            }
+          }
+        },
+        "repositoryUrl": "https://github.com/victoriahuynh/arianalysis",
+        "description": "An exploratory data analysis of Ariana Grande's lyrics. [fun] [Python, Jupyter Notebook] ",
+        "projectUrl": "https://github.com/victoriahuynh/arianalysis/blob/master/analysis.ipynb",
+        "type": "Data Sci"
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "ks5uhzcolmym"
+          }
+        },
+        "id": "6Y7EIx73nUCWuoIWcsuM00",
+        "type": "Entry",
+        "createdAt": "2020-08-21T20:25:44.928Z",
+        "updatedAt": "2020-08-22T00:20:05.159Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 7,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Clubr",
+        "publishedDate": "2017-08-18T00:00+02:00",
+        "logo": {
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "ks5uhzcolmym"
+              }
+            },
+            "id": "u3Um4zkMrAaQioyq4oSIW",
+            "type": "Asset",
+            "createdAt": "2020-08-21T20:25:40.316Z",
+            "updatedAt": "2020-08-21T21:57:57.834Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 2,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Clubr",
+            "description": "Clubr thumbnail",
+            "file": {
+              "url": "//images.ctfassets.net/ks5uhzcolmym/u3Um4zkMrAaQioyq4oSIW/c90a4d96e73f5052ff12b38f44e22162/clubrheader.PNG",
+              "details": {
+                "size": 89217,
+                "image": {
+                  "width": 639,
+                  "height": 639
+                }
+              },
+              "fileName": "clubrheader.PNG",
+              "contentType": "image/png"
+            }
+          }
+        },
+        "extraUrl": "https://uxfol.io/project/042a7745/First-Year-Student-Campus-Involvement",
+        "extraUrlDesc": "Read case study",
+        "description": "High-fidelity prototype of a mobile app that acts as a central communication hub for student organizations on campus. [INFO 200] [Figma, InVision]",
+        "projectUrl": "https://projects.invisionapp.com/share/TCEUGZKFM#/screens",
+        "type": "UI/UX"
+      }
+    }
+  ]
+}
