@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useState} from 'react';
 import PropTypes from 'prop-types';
 import { Image, Text, Flex, Box } from 'rebass/styled-components';
 import { StaticQuery, graphql } from 'gatsby';
@@ -82,6 +82,7 @@ const ProjectImage = styled(Image)`
   height: ${CARD_HEIGHT};
   padding: 40px;
   margin-top: 0px;
+  border-radius: 50px;
 
   ${MEDIA_QUERY_SMALL} {
     height: calc(${CARD_HEIGHT} / 2);
@@ -108,6 +109,8 @@ const Project = ({
   description,
   projectUrl,
   repositoryUrl,
+  extraUrl,
+  extraUrlDesc,
   type,
   publishedDate,
   logo,
@@ -134,11 +137,20 @@ const Project = ({
             }}
           >
             <Box mx={1} fontSize={5}>
-              <SocialLink
-                name="Check repository"
-                fontAwesomeIcon="github"
-                url={repositoryUrl}
-              />
+                {repositoryUrl && 
+                <SocialLink
+                  name="View repository"
+                  fontAwesomeIcon="github"
+                  url={repositoryUrl}
+                /> 
+                || ""}
+                {extraUrl &&
+                <SocialLink
+                name={extraUrlDesc}
+                fontAwesomeIcon="link"
+                url={extraUrl}
+                />
+                || ""}
             </Box>
             <Box mx={1} fontSize={5}>
               <SocialLink
@@ -164,7 +176,9 @@ Project.propTypes = {
   name: PropTypes.string.isRequired,
   description: PropTypes.string.isRequired,
   projectUrl: PropTypes.string.isRequired,
-  repositoryUrl: PropTypes.string.isRequired,
+  repositoryUrl: PropTypes.string,
+  extraUrl: PropTypes.string,
+  extraUrlDesc: PropTypes.string,
   type: PropTypes.string.isRequired,
   publishedDate: PropTypes.string.isRequired,
   logo: PropTypes.shape({
@@ -188,6 +202,8 @@ const Projects = () => (
               description
               projectUrl
               repositoryUrl
+              extraUrl
+              extraUrlDesc
               publishedDate(formatString: "YYYY")
               type
               logo {

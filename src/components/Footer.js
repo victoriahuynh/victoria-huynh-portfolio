@@ -41,7 +41,6 @@ const Footer = () => (
       query FooterQuery {
         contentfulAbout {
           name
-          roles
           socialLinks {
             id
             url
@@ -59,15 +58,23 @@ const Footer = () => (
           <FooterContainer>
             <Fade left>
               <TextFooter fontSize={[2, 3]}>
-                <span>{`${name} Portfolio - Powered by `}</span>
+                <span>{`${name}'s Portfolio - Powered by `}</span>
                 <Link href="https://www.gatsbyjs.org/">Gatsby</Link>
                 <span>, </span>
                 <Link href="https://www.contentful.com/" mr={1}>
                   Contentful
                 </Link>
-                <span> and </span>
-                <Link href="https://www.netlify.com/" mr={1}>
+                <span>and </span>
+                <Link href="https://www.netlify.com/">
                   Netlify
+                </Link>
+                <span>. Icons from </span>
+                <Link href="https://www.flaticon.com/authors/freepik" mr={1}>
+                  Freepik
+                </Link>
+                <span>and </span>
+                <Link href="https://fontawesome.com/" mr={1}>
+                  FontAwesome
                 </Link>
                 <span role="img" aria-label="heart">
                   ❤️
